@@ -44,6 +44,25 @@ schemadotorg:
 
 ## Course Description
 
+### Prerequisites
+- Some experience in R: To be assesed through a set of exercises that will be send before. "If you are accepted, you'll be invited to do the exercise"
+    - Basic R (tables, dataframes, factors, functions)
+	
+	
+### Themes
+	- Advanced R
+    - tidyverse (dplyr, tidyr, ggplot2)
+	  - Statistics
+  	- Working with data
+  - Machine Learning
+    - Unsupervised Learning
+	    - k-nearest neighbours
+	   - Regression
+    - Supervised learning
+	    - Decision trees
+	    - Clustering
+
+
 
 ## Target Audience
 
